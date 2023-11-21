@@ -1,4 +1,3 @@
-# HACK
 <img src=".images.png">
 
 # FMBrute
